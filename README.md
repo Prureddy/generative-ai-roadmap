@@ -183,7 +183,7 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 | RLHF and DPO | ⬜ | [Hugging Face — RLHF Blog](https://huggingface.co/blog/rlhf) |
 | Dataset preparation (Alpaca, ShareGPT format) | ⬜ | [LLM Fine-Tuning Guide: Zero to Hero (GitHub)](https://github.com/ajitsingh98/The-Ultimate-Guide-to-LLM-Fine-Tuning-From-Zero-to-Hero/) |
 | Unsloth / Axolotl for fast training | ⬜ | [Unsloth Docs](https://unsloth.ai) |
-| Quantization (GPTQ, GGUF, AWQ) | ⬜ | [mlabonne — Quantization section](https://github.com/mlabonne/llm-course#quantization) |
+| Quantization (GPTQ, GGUF, AWQ) | ⬜ | [AI Anytime — LLMs Quantization Crash Course](https://www.youtube.com/watch?v=pxlAhUinl9o) |
 
 ### 🔍 Advanced RAG
 
@@ -194,8 +194,8 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 | Re-ranking (Cohere, cross-encoder) | ⬜ | [RAG Tutorial #17 — Reranking (YouTube)](https://www.youtube.com/watch?v=VWA15n6uiS4) |
 | Agentic RAG | ⬜ | [LlamaIndex — Agentic RAG Tutorial](https://docs.llamaindex.ai/en/stable/examples/agent/agentic_rag/) |
 | GraphRAG (knowledge graphs + RAG) | ⬜ | [Microsoft GraphRAG (GitHub)](https://github.com/microsoft/graphrag) |
-| Multimodal RAG (tables, images, PDFs) | ⬜ | [LangChain — Multimodal RAG Cookbook](https://python.langchain.com/docs/tutorials/rag/) |
-| RAG evaluation (RAGAS, recall, precision) | ⬜ | [DeepLearning.AI — Building & Evaluating RAG](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) |
+| Multimodal RAG (tables, images, PDFs) | ⬜ | [AI Anytime — Multimodal RAG for Medical Applications](https://www.youtube.com/watch?v=fbbFrCfaF0w) |
+| RAG evaluation (RAGAS, recall, precision) | ⬜ | [AI Anytime — Evaluation of LLMs & RAGs Playlist](https://www.youtube.com/playlist?list=PLrLEqwuz-mRI5ubqVJ7DpbHheCflJDDXk) |
 
 ### 🤖 AI Agents & Agentic AI
 
@@ -208,6 +208,7 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 | CrewAI (multi-agent framework) | ⬜ | [CrewAI Docs — Getting Started](https://docs.crewai.com) |
 | Human-in-the-loop patterns | ⬜ | [LangGraph — Human-in-the-loop Guide](https://langchain-ai.github.io/langgraph/how-tos/human_in_the_loop/) |
 | Agentic patterns (orchestrator, evaluator, routing) | ⬜ | [Anthropic — Building Effective Agents](https://www.anthropic.com/research/building-effective-agents) |
+| Secure AI Agents with MCP + RBAC | ⬜ | [AI Anytime — Building Secure AI Agent with MCP & RBAC](https://www.youtube.com/watch?v=9k6DxYr) |
 
 ### 🔌 MCP (Model Context Protocol)
 
@@ -234,6 +235,10 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 |------|----------|------|
 | 📂 GitHub | Awesome LLMs Fine-Tuning | [GitHub](https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning) |
 | 📂 GitHub | End-to-End GenAI Projects (80+ projects) | [GitHub](https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS) |
+| 🎥 Playlist | AI Anytime — RAG Playlist (25+ videos) | [YouTube](https://www.youtube.com/playlist?list=PLrLEqwuz-mRIdQrfeCjeCyFZ-Pl6ffPIN) |
+| 🎥 Playlist | AI Anytime — Multimodal LLM & RAG | [YouTube](https://www.youtube.com/playlist?list=PLrLEqwuz-mRI5i7eapwDVUdH_t0bS1_sA) |
+| 🎥 Playlist | AI Anytime — Evaluation of LLMs & RAGs | [YouTube](https://www.youtube.com/playlist?list=PLrLEqwuz-mRI5ubqVJ7DpbHheCflJDDXk) |
+| 🎥 Playlist | AI Anytime — AI Tools & Projects | [YouTube](https://www.youtube.com/playlist?list=PLrLEqwuz-mRJ86YnMSiT5P1EHTcoOOOdm) |
 | 🎥 Course | Krish Naik — Agentic AI Bootcamp (Udemy, ₹399) | [Udemy](https://www.udemy.com/course/complete-agentic-ai-bootcamp-with-langgraph-and-langchain/) |
 | 🎥 Course | freeCodeCamp — GenAI for Developers (21hr) | [YouTube](https://www.youtube.com/watch?v=mEsleV16qdo) |
 | 📖 Blog | Anthropic — Building Effective Agents | [anthropic.com](https://www.anthropic.com/research/building-effective-agents) |
@@ -275,6 +280,7 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 | CI/CD for AI apps | ⬜ | [GitHub Actions — CI/CD Tutorial](https://docs.github.com/en/actions) |
 | Model versioning & monitoring | ⬜ | [MLflow Docs](https://mlflow.org/docs/latest/index.html) |
 | LLM security (prompt injection, jailbreaks) | ⬜ | [OWASP — LLM Top 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/) |
+| End-to-End LLMOps with Azure | ⬜ | [AI Anytime — E2E Multimodal LLMOps Azure Deployment](https://www.youtube.com/watch?v=I3CWFDgqvq8) |
 
 ### 📚 Level 3 Resources Hub
 
@@ -290,6 +296,8 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 
 ## 🛠️ Projects — Beginner to Advanced
 
+> 💡 **Project Tip:** Check out [AI Anytime YouTube Channel](https://www.youtube.com/@AIAnytime) for end-to-end project walkthroughs with source code on GitHub. Also explore Medium blogs from [Towards AI](https://pub.towardsai.net/), [GoPenAI](https://medium.com/gopenai), and [Generative AI Publication](https://generativeai.pub/) for step-by-step project tutorials.
+
 ### 🟢 Beginner Projects
 
 | # | Project | Concepts Covered | Starter Resource |
@@ -300,31 +308,35 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 | 4 | **Text Summarizer** | LLM API, chunking, prompt design | [Hugging Face Pipeline](https://huggingface.co/docs/transformers/main_classes/pipelines) |
 | 5 | **AI-Powered Resume Screener** | Text extraction, embeddings, similarity | [spaCy + LLM](https://spacy.io) |
 | 6 | **LangChain Chatbot with Memory** | Conversation memory, chains | [LangChain Memory Docs](https://python.langchain.com/docs/concepts/memory/) |
+| 7 | **Text-to-Music Generation App** | Audio generation, Meta AudioCraft, Streamlit | [AI Anytime — Text to Music (GitHub)](https://github.com/AIAnytime/Text-to-Music-Generation-App) |
 
 ### 🟡 Intermediate Projects (Resume-Worthy)
 
 | # | Project | Concepts Covered | Starter Resource |
 |---|---------|-----------------|-----------------|
-| 7 | **Multi-Document RAG System** | Advanced chunking, hybrid search, reranking | [LlamaIndex RAG](https://docs.llamaindex.ai) |
-| 8 | **Customer Support Agent** | AI agents, tool calling, RAG, routing | [LangGraph Tutorials](https://langchain-ai.github.io/langgraph/) |
-| 9 | **LLaMA/Mistral Fine-Tuning (LoRA)** | QLoRA, Unsloth, Hugging Face, evaluation | [poloclub/Fine-tuning-LLMs](https://github.com/poloclub/Fine-tuning-LLMs) |
-| 10 | **Financial AI Agent** | Multi-agent, tool use, API integration | [CrewAI + YFinance](https://docs.crewai.com) |
-| 11 | **Medical RAG Chatbot** | Domain RAG, BioMistral, Qdrant | [End-to-End GenAI Projects](https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS) |
-| 12 | **Code Assistant with RAG** | Code embeddings, GitHub integration | [OpenAI Codex / Cursor](https://platform.openai.com) |
-| 13 | **Multi-Agent Research System** | CrewAI/LangGraph, web search, report gen | [CrewAI Examples](https://github.com/crewAIInc/crewAI-examples) |
-| 14 | **Agentic RAG with Evaluation** | Agentic RAG, RAGAS metrics, feedback loop | [RAGAS Docs](https://docs.ragas.io) |
+| 8 | **Multi-Document RAG System** | Advanced chunking, hybrid search, reranking | [LlamaIndex RAG](https://docs.llamaindex.ai) |
+| 9 | **Customer Support Agent** | AI agents, tool calling, RAG, routing | [LangGraph Tutorials](https://langchain-ai.github.io/langgraph/) |
+| 10 | **LLaMA/Mistral Fine-Tuning (LoRA)** | QLoRA, Unsloth, Hugging Face, evaluation | [poloclub/Fine-tuning-LLMs](https://github.com/poloclub/Fine-tuning-LLMs) |
+| 11 | **Financial AI Agent** | Multi-agent, tool use, API integration | [CrewAI + YFinance](https://docs.crewai.com) |
+| 12 | **Medical RAG Chatbot** | Domain RAG, BioMistral, Qdrant | [End-to-End GenAI Projects](https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS) |
+| 13 | **Multimodal RAG for Medical Imaging** | GPT-4V, vector DB, FastAPI, unstructured data | [AI Anytime — Multimodal RAG Medical (GitHub)](https://github.com/AIAnytime/Multimodal-RAG-using-Langchain) |
+| 14 | **Code Assistant with RAG** | Code embeddings, GitHub integration | [OpenAI Codex / Cursor](https://platform.openai.com) |
+| 15 | **Multi-Agent Research System** | CrewAI/LangGraph, web search, report gen | [CrewAI Examples](https://github.com/crewAIInc/crewAI-examples) |
+| 16 | **Agentic RAG with Evaluation** | Agentic RAG, RAGAS metrics, feedback loop | [RAGAS Docs](https://docs.ragas.io) |
+| 17 | **AI News Aggregator (E2E)** | Scrapers, LLM digest, DB, email, deployment | [AI Anytime-style project](https://www.youtube.com/watch?v=E8zpgNPx8jE) |
 
 ### 🔴 Advanced Projects (Industry-Level)
 
 | # | Project | Concepts Covered | Starter Resource |
 |---|---------|-----------------|-----------------|
-| 15 | **Production RAG with CI/CD** | FastAPI, Docker, monitoring, CI/CD, cloud | [LangServe Docs](https://python.langchain.com/docs/langserve/) |
-| 16 | **Voice AI Agent (Phone Calls)** | STT, LLM, TTS, WebRTC, telephony | [Pipecat Examples](https://github.com/pipecat-ai/pipecat-examples) |
-| 17 | **MCP Server + AI Agent** | MCP tools/resources, client integration | [MCP for Beginners (Microsoft)](https://github.com/microsoft/mcp-for-beginners) |
-| 18 | **Multimodal AI Assistant** | Vision + Text + Audio, Gemini/GPT-4V | [Google AI Studio](https://aistudio.google.com) |
-| 19 | **End-to-End LLM Fine-Tuning Pipeline** | Data prep → train → eval → deploy → monitor | [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) |
-| 20 | **Multi-Agent Orchestration Platform** | OpenAI Agents SDK + LangGraph + MCP | [OpenAI Agents SDK Docs](https://openai.github.io/openai-agents-python/) |
-| 22 | **Open-Source Contribution** | Framework internals, testing, PR process | [Pipecat](https://github.com/pipecat-ai/pipecat) or [LangChain](https://github.com/langchain-ai/langchain) |
+| 18 | **Production RAG with CI/CD** | FastAPI, Docker, monitoring, CI/CD, cloud | [LangServe Docs](https://python.langchain.com/docs/langserve/) |
+| 19 | **Voice AI Agent (Phone Calls)** | STT, LLM, TTS, WebRTC, telephony | [Pipecat Examples](https://github.com/pipecat-ai/pipecat-examples) |
+| 20 | **MCP Server + AI Agent** | MCP tools/resources, client integration | [MCP for Beginners (Microsoft)](https://github.com/microsoft/mcp-for-beginners) |
+| 21 | **Multimodal AI Assistant** | Vision + Text + Audio, Gemini/GPT-4V | [Google AI Studio](https://aistudio.google.com) |
+| 22 | **End-to-End LLM Fine-Tuning Pipeline** | Data prep → train → eval → deploy → monitor | [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) |
+| 23 | **Multi-Agent Orchestration Platform** | OpenAI Agents SDK + LangGraph + MCP | [OpenAI Agents SDK Docs](https://openai.github.io/openai-agents-python/) |
+| 24 | **E2E Multimodal LLMOps (Azure)** | Video indexing, LangSmith, Azure deployment | [AI Anytime — LLMOps Azure Project](https://www.youtube.com/watch?v=I3CWFDgqvq8) |
+| 25 | **Open-Source Contribution** | Framework internals, testing, PR process | [Pipecat](https://github.com/pipecat-ai/pipecat) or [LangChain](https://github.com/langchain-ai/langchain) |
 
 ---
 
@@ -334,6 +346,7 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 |---------|----------|-----------|
 | **Andrej Karpathy** | Deep fundamentals, building from scratch | [Zero to Hero Series](https://karpathy.ai/zero-to-hero.html) |
 | **3Blue1Brown** | Visual math & neural network intuition | [Neural Networks Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
+| **AI Anytime** | End-to-end GenAI projects, multimodal RAG, LLM evaluation, healthcare AI, quantization | [YouTube Channel](https://www.youtube.com/@AIAnytime) |
 | **Krish Naik** | GenAI roadmap, LangChain, agents, projects | [GenAI Crash Course](https://www.youtube.com/watch?v=7qqGnuRrWxg) |
 | **freeCodeCamp** | Long-form free courses (10-30hr) | [GenAI 30hr Course](https://www.youtube.com/watch?v=mEsleV16qdo) |
 | **DeepLearning.AI** | Structured short courses (Andrew Ng) | [deeplearning.ai/courses](https://learn.deeplearning.ai) |
@@ -342,6 +355,7 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 | **Matt Williams** | Ollama, local LLMs, practical tutorials | [YouTube Channel](https://www.youtube.com/@technovangelist) |
 | **James Briggs** | LangChain, Pinecone, RAG deep dives | [YouTube Channel](https://www.youtube.com/@jamesbriggs) |
 | **Raj Kapadia** | OpenAI SDK, agents, practical coding | [Agents SDK Tutorial](https://www.youtube.com/watch?v=mQHD3-mllro) |
+| **codebasics** | End-to-end GenAI projects, beginner-friendly | [GenAI Mini Course](https://www.youtube.com/watch?v=d4yCWBGFCEs) |
 
 ---
 
@@ -377,6 +391,30 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 | Chip Huyen's Blog | MLOps, LLM systems design | [huyenchip.com](https://huyenchip.com) |
 | Simon Willison's Blog | Practical LLM usage, tools | [simonwillison.net](https://simonwillison.net) |
 
+### 📝 Best Medium Publications for GenAI
+
+| Publication | Focus Area | Link |
+|-------------|-----------|------|
+| **Towards AI** | RAG, agents, LLMs, research papers | [pub.towardsai.net](https://pub.towardsai.net/) |
+| **GoPenAI** | RAG chatbots, vector DBs, LangChain projects | [medium.com/gopenai](https://medium.com/gopenai) |
+| **Generative AI** | GenAI tools, image gen, practical tutorials | [generativeai.pub](https://generativeai.pub/) |
+| **Level Up Coding** | Embedding models, deployment, AWS + AI | [levelup.gitconnected.com](https://levelup.gitconnected.com/) |
+| **Artificial Intelligence in Plain English** | LLM inference optimization, GenAI landscape | [ai.plainenglish.io](https://ai.plainenglish.io/) |
+| **The PyCoach** | Python + AI tutorials, automation | [medium.com/@thepycoach](https://medium.com/@thepycoach) |
+
+### 📝 Must-Read Medium Articles for GenAI Projects
+
+| Article Topic | Author/Pub | What You'll Learn |
+|--------------|-----------|------------------|
+| Building RAG Chatbot with LlamaIndex + Groq | GoPenAI | End-to-end RAG with Llama3 + Chainlit |
+| Vector Database Comparison for RAG | GoPenAI | ChromaDB vs Qdrant vs Pinecone vs Weaviate |
+| LLM Inference Optimization Techniques | AI in Plain English | Quantization, pruning, knowledge distillation |
+| Scalable Pipeline for RAG Q&A | Yi Ai (Medium) | Google Cloud + Redis + LangChain indexing |
+| Fine-Tuning 7B LLM for Text-to-SQL | Yi Ai (Medium) | Custom DB schema fine-tuning |
+| Agentic Design Patterns | Sanjay Kumar PhD | Orchestrator, evaluator, routing patterns |
+| Building RAG Bot for Slack | Pragnakalp Techlabs | LangChain + OpenAI Slack integration |
+| Deploying HF Models with SageMaker | Pragnakalp Techlabs | AWS deployment patterns |
+
 ---
 
 ## 📂 Must-Star GitHub Repositories
@@ -394,6 +432,7 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 100k+ | LLM application framework |
 | [livekit/agents](https://github.com/livekit/agents) | 5k+ | Voice AI agent framework |
 | [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | 5k+ | Open source voice & multimodal AI framework |
+| [AIAnytime GitHub](https://github.com/AIAnytime) | — | All project source code from AI Anytime channel |
 
 ---
 
@@ -430,7 +469,7 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 - [ ] Build PDF Q&A bot with RAG
 - [ ] Set up vector database (ChromaDB/Qdrant)
 - [ ] Complete freeCodeCamp RAG & MCP course
-- [ ] Build Multi-Document RAG System (Project #7)
+- [ ] Build Multi-Document RAG System (Project #8)
 - [ ] **Notes/Blog:** _link here_
 
 </details>
@@ -440,7 +479,7 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 
 - [ ] Fine-tune LLaMA/Mistral with QLoRA
 - [ ] Implement advanced RAG (hybrid search, reranking)
-- [ ] Build Medical RAG Chatbot (Project #11)
+- [ ] Build Multimodal RAG for Medical Imaging (Project #13)
 - [ ] Study RAG evaluation with RAGAS
 - [ ] **Notes/Blog:** _link here_
 
@@ -450,10 +489,10 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 <summary><b>Weeks 15-18: AI Agents, LangGraph & MCP</b></summary>
 
 - [ ] Complete LangGraph course
-- [ ] Build Customer Support Agent (Project #8)
+- [ ] Build Customer Support Agent (Project #9)
 - [ ] Complete OpenAI Agents SDK tutorial
-- [ ] Build MCP server + agent integration (Project #17)
-- [ ] Build Multi-Agent Research System (Project #13)
+- [ ] Build MCP server + agent integration (Project #20)
+- [ ] Build Multi-Agent Research System (Project #15)
 - [ ] **Notes/Blog:** _link here_
 
 </details>
@@ -462,8 +501,8 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 <summary><b>Weeks 19-21: Voice AI & Multimodal</b></summary>
 
 - [ ] Set up LiveKit Agent Starter
-- [ ] Build Voice AI Agent (Project #16)
-- [ ] Build Multimodal AI Assistant (Project #18)
+- [ ] Build Voice AI Agent (Project #19)
+- [ ] Build Multimodal AI Assistant (Project #21)
 - [ ] Study WebRTC and telephony basics
 - [ ] **Notes/Blog:** _link here_
 
@@ -472,9 +511,9 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 <details>
 <summary><b>Weeks 22-24: Deployment, Portfolio & Contributions</b></summary>
 
-- [ ] Deploy RAG system with FastAPI + Docker + CI/CD (Project #15)
-- [ ] Build Healthcare Voice Agent (Project #21)
-- [ ] Submit PR to open-source project (Project #22)
+- [ ] Deploy RAG system with FastAPI + Docker + CI/CD (Project #18)
+- [ ] Build E2E LLMOps Azure project (Project #24)
+- [ ] Submit PR to open-source project (Project #25)
 - [ ] Polish GitHub portfolio and README
 - [ ] Write capstone blog post
 - [ ] **Notes/Blog:** _link here_
@@ -504,7 +543,7 @@ Prerequisites    Core GenAI       Advanced GenAI   Production & Frontier
 
 - **LinkedIn:** [linkedin.com/in/pruthvi-s](https://linkedin.com/in/pruthvi-s)
 - **GitHub:** [github.com/Prureddy](https://github.com/Prureddy)
-- **Email:** pruthvisreddy8861@gmail.com
+- **Email:** [pruthvisreddy8861@gmail.com](mailto:pruthvisreddy8861@gmail.com)
 
 ---
 
